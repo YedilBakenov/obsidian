@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md",
+                "file": "Пароли/Пароли.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Пароли"
             }
           },
           {
@@ -322,7 +322,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a58c7d303fcc903",
+  "active": "3134b02009374c12",
   "lastOpenFiles": [
     "Без названия.md",
     "Работа.md",
