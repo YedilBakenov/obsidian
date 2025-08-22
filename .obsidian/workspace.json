@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Пароли/Пароли.md",
+                "file": "Work/Git/Работа с задачами в Jira и Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пароли"
+              "title": "Работа с задачами в Jira и Git"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Пароли/Пароли.md",
+                "file": "Work/Git/Работа с задачами в Jira и Git.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Пароли"
+              "title": "Структура Работа с задачами в Jira и Git"
             }
           },
           {
@@ -324,9 +324,9 @@
   },
   "active": "3134b02009374c12",
   "lastOpenFiles": [
+    "Пароли/Пароли.md",
     "Без названия.md",
     "Работа.md",
-    "Пароли/Пароли.md",
     "Безымянная Kanban-доска.md",
     "Безымянная Kanban-доска 1.md",
     "2025-08-22.md",
