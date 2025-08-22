@@ -1,0 +1,87 @@
+1.final case class ClientHistoryOrder(clientId: String, id: String, createdAt: Instant) {
+  def toModel: ClientHistoryOrderModel =
+    ClientHistoryOrderModel(clientId, id, createdAt, None, None, None, None, None)
+}
+
+
+2.final case class ClientHistoryOrderByTime(clientId: String, createdAt: Instant, id: String) {
+  def toModel: ClientHistoryOrderModel =
+    ClientHistoryOrderModel(clientId, id, createdAt, None, None, None, None, None)
+}
+
+3.case class ClientHistoryOrderModel(
+  clientId: String,
+  id: String,
+  createdAt: Instant,
+  paymentMethodConfirmationState: Option[PaymentMethodConfirmationState],
+  paymentMethod: Option[ClientOrderPaymentMethod],
+  cost: Option[ClientOrderCost],
+  submission: Option[ClientAddress],
+  route: Option[List[ClientAddress]]
+) {
+  def getByTimeData: ClientHistoryOrderByTime =
+    ClientHistoryOrderByTime(clientId, createdAt, id)
+
+  def getPlainData: ClientHistoryOrder =
+    ClientHistoryOrder(clientId, id, createdAt)
+
+}
+
+4.  def getOrderReceipt(clientId: String, orderId: String): F[Either[ApiError, OrdersReceiptResponseDto]] =
+    OptionT(daoOrderDetails.get(clientId, orderId)).map(OrderConverter.toOrdersReceiptResponseDto).toRight(OrderError.OrderNotFound.toDto).value
+
+
+5. def toOrdersReceiptResponseDto(orderDetails: ClientHistoryOrderModel): OrdersReceiptResponseDto = {
+
+    def formatAddress(address: Address): String = {
+      val componentsByLevel = address.components.groupBy(_.level).collect {
+        case (level, components) if components.nonEmpty => level -> components.head.name
+      }
+
+      (componentsByLevel.get(7), componentsByLevel.get(8), componentsByLevel.get(9)) match {
+        case (Some(level7), Some(level8), Some(level9)) => s"$level7, $level8 ($level9)"
+        case (Some(level7), Some(level8), None)         => s"$level7, $level8"
+        case (_, _, Some(level9))                       => level9
+        case _                                          => address.name
+      }
+    }
+
+    OrdersReceiptResponseDto(
+      state = orderDetails.paymentMethodConfirmationState.toString,
+      paymentMethod = OrdersReceiptResponseDtoPaymentMethod(
+        kind = orderDetails.cost.map(_.paymentMethod).map(_.kind).getOrElse(""),
+        name = orderDetails.cost.flatMap(_.paymentMethod.name)
+      ),
+      total = orderDetails.cost.map(_.amount).getOrElse(0L),
+      submission = orderDetails.submission.map(sub => formatAddress(sub.address)).getOrElse(""),
+      currency = orderDetails.cost.map(_.currencyCode).getOrElse(""),
+      route = orderDetails.route.map(_.map(address => formatAddress(address.address))),
+      spentBonuses = orderDetails.cost.flatMap(_.usedBonuses)
+    )
+  }
+
+
+6. def getOrderReceipt(clientId: String, orderId: String): F[Either[ApiError, OrdersReceiptResponseDto]] = {
+    for {
+      _ <- Logger[F].info(s"Получение данных для чека заказа: clientId = $clientId, orderId = $orderId")
+      orderDetailsOption <- daoOrderDetails.get(clientId, orderId)
+      result <- OptionT.fromOption[F](orderDetailsOption)
+        .map(OrderConverter.toOrdersReceiptResponseDto)
+        .toRight(OrderError.OrderNotFound.toDto)
+        .value
+      _ <- result match {
+        case Left(error) => Logger[F].error(s"Ошибка при получении чека заказа: $error")
+        case Right(_) => Logger[F].info(s"Чек заказа для clientId = $clientId, orderId = $orderId успешно получен")
+      }
+    } yield result
+  }
+
+
+
+ def getOrderReceipt(clientId: String, orderId: String): F[Either[ApiError, OrdersReceiptResponseDto]] =
+    OptionT(daoOrderDetails.get(clientId, orderId)).map(OrderConverter.toOrdersReceiptResponseDto).toRight(OrderError.OrderNotFound.toDto).value
+
+993000000054273
+993000000054224 - orderID
+
+

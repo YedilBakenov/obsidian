@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "7ef2720a382ddb43",
+    "type": "split",
+    "children": [
+      {
+        "id": "44847c193c9b5087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "056716acfad9a0d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Каждый день/Четверг 29.08.24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef40385c2815eecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scala обучение/Пайплайн.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "295c6cdd98aeb4ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chat GPT/Запросы чату и рекомендации по программированию.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d60803ef7391681f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Работа с логами в командной строке, также с работа с базой данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2327dee7d263028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scala обучение/Что и как учить/непонятные термины и все что связано с работой.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d365cf45b953e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scala обучение/Компиляция и процесс Рантайм, процесс build.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e1f6a8e3d5bd7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scala обучение/JVM, javac, JDK, JRE, SDK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a30065fc32d617c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scala обучение/Иерархия исключений в Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8081887953730719",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a6f987528ba88bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a58c7d303fcc903",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64c7781d925e8902",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#work",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c427b64b9610923f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8af42f107331b977",
+    "type": "split",
+    "children": [
+      {
+        "id": "56114d2e5d475a70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d5ef580211082de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scala обучение/Компиляция и процесс Рантайм, процесс build.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e37826e79727536",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scala обучение/Компиляция и процесс Рантайм, процесс build.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c0ee3b868bd6fe40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a5c8debec1d1541",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scala обучение/Компиляция и процесс Рантайм, процесс build.md"
+              }
+            }
+          },
+          {
+            "id": "1c21b4c2a3876be3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "9d365cf45b953e5c",
+  "lastOpenFiles": [
+    "Scala обучение/Пайплайн.md",
+    "Каждый день/Среда 25.09.24.md",
+    "Work/Работа с логами в командной строке, также с работа с базой данных.md",
+    "Scala обучение/Что и как учить/непонятные термины и все что связано с работой.md",
+    "Scala обучение/Компиляция и процесс Рантайм, процесс build.md",
+    "Scala обучение/JVM, javac, JDK, JRE, SDK.md",
+    "Scala обучение/Иерархия исключений в Java.md",
+    "image/Снимок экрана 2024-09-25 в 15.32.20.png",
+    "Work/Добавление нового сабмодуля в сервис.md",
+    "Work/Добавление статуса у водителя Arrived.md",
+    "Scala обучение/Без названия.md",
+    "Chat GPT/Запросы чату и рекомендации по программированию.md",
+    "Работа/Подключение к командной строке для просмотра логов на маке.md",
+    "Каждый день/Четверг 29.08.24.md",
+    "Программирование/SSH (Secure Shell).md",
+    "Work/Смотреть мр конкретного пользователя.md",
+    "image/Снимок экрана 2024-09-25 в 11.48.31.png",
+    "Ежедневный делик/24.09.24 Вторник.md",
+    "Scala обучение/Вопросы/Вопросы от Димы (вторая часть).md",
+    "Scala обучение/Вопросы/Список вопросов по работе.md",
+    "Каждый день/Вторник 24.09.24.md",
+    "Work/Работа с задачами в Jira и Git.md",
+    "Каждый день/Четверг 12.09.24.md",
+    "Каждый день/Среда 18.09.24.md",
+    "Каждый день/Среда 11.09.24.md",
+    "Каждый день/Пятница 06.09.24.md",
+    "Каждый день/Понедельник 02.09.24.md",
+    "Каждый день/Вторник 03.09.24.md",
+    "Программирование",
+    "image/Снимок экрана 2024-09-24 в 02.31.18.png",
+    "image/Снимок экрана 2024-09-24 в 02.31.13.png",
+    "image/Снимок экрана 2024-09-24 в 02.31.04.png",
+    "image/Снимок экрана 2024-09-24 в 02.30.52.png",
+    "Work/Снимок экрана 2024-08-28 в 12.48.23.png",
+    "Работа/Снимок экрана 2024-08-28 в 12.48.23.png",
+    "Без названия/~syncthing~asda.md.tmp",
+    "Без названия/~syncthing~wqeqwe.md.tmp",
+    "~syncthing~.DS_Store.tmp",
+    "gddfgdfg/~syncthing~ффывфыв  фыв.md.tmp",
+    "gddfgdfg",
+    "Без названия 1",
+    "111",
+    "Покупка квартиры/~syncthing~Заявка.md.tmp",
+    "image/Снимок экрана 2024-04-24 115135.png",
+    "Работа/~syncthing~Снимок экрана 2024-08-28 в 12.48.23.png.tmp",
+    "image/Снимок экрана 2024-07-18 150341 2.png",
+    "Untitled.canvas"
+  ]
+}

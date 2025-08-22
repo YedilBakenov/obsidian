@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "7ef2720a382ddb43",
+    "type": "split",
+    "children": [
+      {
+        "id": "44847c193c9b5087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "056716acfad9a0d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Работа с логами в командной строке, также с работа с базой данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89d972d5646eb938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Каждый день/Среда 18.09.24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9094adeb4377c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Каждый день/Четверг 29.08.24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "283b50173056b893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Работа с логами в командной строке, также с работа с базой данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8081887953730719",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a6f987528ba88bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a58c7d303fcc903",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64c7781d925e8902",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#scala",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c427b64b9610923f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "8af42f107331b977",
+    "type": "split",
+    "children": [
+      {
+        "id": "56114d2e5d475a70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d5ef580211082de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Work/Работа с логами в командной строке, также с работа с базой данных.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e37826e79727536",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Work/Работа с логами в командной строке, также с работа с базой данных.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c0ee3b868bd6fe40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a5c8debec1d1541",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Work/Работа с логами в командной строке, также с работа с базой данных.md"
+              }
+            }
+          },
+          {
+            "id": "1c21b4c2a3876be3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "283b50173056b893",
+  "lastOpenFiles": [
+    "Work/Работа с задачами в Jira и Git.md",
+    "Work/Работа с базой данных(добавление машин).md",
+    "Work/Проверка функций, парсеров.md",
+    "Work/Потягивать новые классы и методы ,которые генерят спеки которых нет еще на главной ветке, а которые есть только в твоих локальных ветках.md",
+    "Work/Постман.md",
+    "Work/Посмотреть какие есть топики на Dev.md",
+    "Work/Полный путь запроса из витрины в кору на примере метода patchClientOrderPayment.md",
+    "Work/Подтягивать сабмодули, модули в проект в idea intellij.md",
+    "Work/Подключение к командной строке для просмотра логов на маке.md",
+    "Каждый день/Среда 18.09.24.md",
+    "Каждый день/Четверг 29.08.24.md",
+    "Work/Работа с логами в командной строке, также с работа с базой данных.md",
+    "внешность/Операции.md",
+    "Работа/Подключение к командной строке для просмотра логов на маке.md",
+    "Работа/Добавление Personal access tokens.md",
+    "Работа/Снимок экрана 2024-08-28 в 12.48.23.png",
+    "Work/Добавление статуса у водителя Arrived.md",
+    "Work/Генерилка апруверов.md",
+    "Work/Добавление нового сабмодуля в сервис.md",
+    "Work/Добавление Option в базу данных.md",
+    "Каждый день/Четверг 12.09.24.md",
+    "Каждый день/Среда 11.09.24.md",
+    "Каждый день/Пятница 06.09.24.md",
+    "Каждый день/Понедельник 02.09.24.md",
+    "Каждый день/Вторник 03.09.24.md",
+    "Гит/Гит Git работа когда ты скачиваешь новые коммиты в свой локальный проект.md",
+    "Work/Обучение в Регион.md",
+    "Без названия/~syncthing~asda.md.tmp",
+    "Без названия/~syncthing~wqeqwe.md.tmp",
+    "~syncthing~.DS_Store.tmp",
+    "gddfgdfg/~syncthing~ффывфыв  фыв.md.tmp",
+    "gddfgdfg",
+    "Без названия",
+    "Без названия 1",
+    "111",
+    "Work/Снимок экрана 2024-08-28 в 12.48.23.png",
+    "Покупка квартиры/~syncthing~Заявка.md.tmp",
+    "image/Снимок экрана 2024-04-24 115135.png",
+    "Работа/~syncthing~Снимок экрана 2024-08-28 в 12.48.23.png.tmp",
+    "image/Снимок экрана 2024-07-18 150341 2.png",
+    "image/Снимок экрана 2024-07-18 150407.png",
+    "image/Снимок экрана 2024-07-18 150341 1.png",
+    "image/Снимок экрана 2024-07-18 150341.png",
+    "image/Снимок экрана 2024-07-07 105806.png",
+    "image/Снимок экрана 2024-07-04 001005.png",
+    "image/Снимок экрана 2024-07-04 000756 1.png",
+    "Untitled.canvas"
+  ]
+}
