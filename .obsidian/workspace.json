@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тестовый.md",
+                "file": "токены/Токены.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Тестовый"
+              "title": "Токены"
             }
           },
           {
@@ -294,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестовый.md",
+                "file": "токены/Токены.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Тестовый"
+              "title": "Структура Токены"
             }
           },
           {
@@ -352,6 +352,7 @@
   },
   "active": "6efaac6c825b17a1",
   "lastOpenFiles": [
+    "Тестовый.md",
     "image/1 4.png",
     "Без названия 3.base",
     "Без названия 2.base",
@@ -360,7 +361,6 @@
     "Без названия.md",
     "Без названия.base",
     "Пароли/тестовый2.md",
-    "Тестовый.md",
     "Без названия 1.md",
     "Пароли/Пароли.md",
     "Шаблоны/Ежедневник.md",
@@ -400,7 +400,6 @@
     "image/Снимок экрана 2025-03-20 в 11.45.27.png",
     "image/Снимок экрана 2025-01-28 в 16.55.35.png",
     "image/7.jpeg",
-    "image/6.jpeg",
     "Untitled.canvas"
   ]
 }
