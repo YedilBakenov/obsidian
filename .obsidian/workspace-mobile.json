@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "d1cb0c491118fbc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd45126827e5d56b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c86f9f342e58a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
+          },
+          {
+            "id": "f88d5df41e18a6c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 1"
+            }
+          },
+          {
+            "id": "2fdb5dff80b89ac1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тестовый.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тестовый"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98cbc4e4933fb627",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8d98c8c2fece58c0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "c6f8fa6257395984",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "7130aeb4044969e3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "bdbf7dc4894508f7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2323a110ff832501",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3d51f8e0f26e7340",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "52cd1dca57f4ae71",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d3fd6a39654778ba",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2fdb5dff80b89ac1",
+  "lastOpenFiles": [
+    "Без названия 1.md",
+    "Тестовый.md",
+    "Без названия.md",
+    "Общие термины и определения в программировании/Идемпотентность.md",
+    "Общие термины и определения в программировании/Партиции.md",
+    "Общие термины и определения в программировании",
+    "Курсы/Scala/Курсы по прогроммированию.md",
+    "Курсы/Scala",
+    "Курсы",
+    "без использования предположений о взаимной обратности,.md",
+    "2025-08-20.md",
+    "Без названия 3.base",
+    "Делик/02.09.24 Понедельник.md",
+    "Делик",
+    "Без названия 2.base",
+    "Безымянная Kanban-доска 1.md",
+    "Книги/Scala/Scala книги.md",
+    "Книги/Около IT/Книги.md",
+    "Книги/Программирование/Ответы на задачи из красной книги.md",
+    "Книги/Программирование/Книги.md",
+    "Книги/Scala",
+    "Книги/Около IT",
+    "Книги/Программирование",
+    "Книги",
+    "Работа с обсидиан/Горячие клавиши.md",
+    "Так общее/Духи/Список.md",
+    "links/Save from youtube.md",
+    "links/Для проверки по ИП и налогам.md",
+    "links/Сайты по программированию и не только.md",
+    "links/Сайты для заказа товаров с Китая.md",
+    "Мак/Быстрые клавиши.md",
+    "Мак/Сменить разные jdk на компьютере.md",
+    "Трудоустройство/Компании.md",
+    "Трудоустройство/Конструктор резюме.md",
+    "Трудоустройство/Собеседование в Home Credit Bank.md",
+    "Work/Git/Сквош.md",
+    "Work/Снимок экрана 2024-08-28 в 12.48.23.png",
+    "Без названия 1.canvas",
+    "Работа/Снимок экрана 2024-08-28 в 12.48.23.png",
+    "image/1 2.png",
+    "image/3.jpeg",
+    "image/6a1661f9-89aa-4f51-bf47-088e3f2c0779.jpg",
+    "image/Снимок экрана 2023-03-12 035656.png",
+    "image/Снимок экрана 2023-03-12 065934.png",
+    "image/Снимок экрана 2023-03-07 030745.png",
+    "image/Снимок экрана 2023-03-07 092131.png",
+    "image/Снимок экрана 2023-02-27 165346.png",
+    "Без названия.canvas",
+    "Без названия 2.canvas"
+  ]
+}
