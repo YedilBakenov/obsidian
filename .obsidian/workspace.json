@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тестовый слой/Без названия.md",
+                "file": "Тестовый слой/йцуйцу.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "йцуйцу"
             }
           },
           {
@@ -267,12 +267,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тестовый слой/Без названия.md",
+                "file": "Тестовый слой/йцуйцу.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия"
+              "title": "Исходящие ссылки из йцуйцу"
             }
           },
           {
@@ -296,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестовый слой/Без названия.md",
+                "file": "Тестовый слой/йцуйцу.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура йцуйцу"
             }
           },
           {
@@ -365,7 +365,7 @@
   "active": "6efaac6c825b17a1",
   "lastOpenFiles": [
     "Еда/как принимать витамины и таблетки.md",
-    "Тестовый слой/Без названия.md",
+    "Тестовый слой/йцуйцу.md",
     "Тестовый слой",
     "123",
     "Еда/Протеины(изоляты, гидрозаляты).md",
