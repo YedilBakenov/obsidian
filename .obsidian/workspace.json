@@ -162,25 +162,17 @@
             }
           },
           {
-            "id": "e975a14b3a7f0f78",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "image/2023-09-10_21-51-30.png"
-              },
-              "icon": "lucide-image",
-              "title": "2023-09-10_21-51-30"
-            }
-          },
-          {
             "id": "8a139cd5facc1479",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "токены/Токены.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Токены"
             }
           }
         ],
@@ -302,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image/2023-09-10_21-51-30.png",
+                "file": "токены/Токены.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 2023-09-10_21-51-30"
+              "title": "Структура Токены"
             }
           },
           {
@@ -358,9 +350,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e975a14b3a7f0f78",
+  "active": "8a139cd5facc1479",
   "lastOpenFiles": [
+    "токены/Токены.md",
+    "токены",
     "Девчонки/Проститутки.md",
+    "image/2023-09-10_21-51-30.png",
     "Задачи по работе/Свой микросервис по трекам/Общая информация по новому сервису.md",
     "Пароли/Пароли.md",
     "2025-08-20.md",
@@ -395,20 +390,17 @@
     "Work/Добавление статуса у водителя Arrived.md",
     "Календарь/Пятница 11.06.25.md",
     "Work/Добавление Option в базу данных.md",
-    "Work/Генерилка апруверов.md",
     "ML",
     "image/Снимок экрана 2025-05-22 в 10.52.08.png",
     "Work/Снимок экрана 2024-08-28 в 12.48.23.png",
     "Работа/Снимок экрана 2024-08-28 в 12.48.23.png",
     "Задачи по работе/Тестирование Intercity",
-    "Календарь",
     "image/Снимок экрана 2025-03-20 в 11.48.44.png",
     "image/Снимок экрана 2025-03-20 в 11.48.41.png",
     "image/Снимок экрана 2025-03-20 в 11.45.27.png",
     "image/Снимок экрана 2025-01-28 в 16.55.35.png",
     "image/7.jpeg",
     "image/6.jpeg",
-    "image/5.jpeg",
     "Untitled.canvas"
   ]
 }
