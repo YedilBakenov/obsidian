@@ -267,12 +267,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Каждый день/Понедельник 04.10.24 1.md",
+                "file": "Тестовый.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Понедельник 04.10.24 1"
+              "title": "Исходящие ссылки из Тестовый"
             }
           },
           {
@@ -282,7 +282,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -326,9 +328,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "dc98404df8b7f21b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -352,8 +364,9 @@
   },
   "active": "6efaac6c825b17a1",
   "lastOpenFiles": [
-    "токены/Токены.md",
+    "Без названия 1.md",
     "Тестовый.md",
+    "токены/Токены.md",
     "image/1 4.png",
     "Без названия 3.base",
     "Без названия 2.base",
@@ -362,7 +375,6 @@
     "Без названия.md",
     "Без названия.base",
     "Пароли/тестовый2.md",
-    "Без названия 1.md",
     "Пароли/Пароли.md",
     "Шаблоны/Ежедневник.md",
     "Девчонки/Проститутки.md",
