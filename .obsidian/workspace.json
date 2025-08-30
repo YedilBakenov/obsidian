@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "токены/Токены.md",
+                "file": "Тестовый.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Токены"
+              "title": "Тестовый"
             }
           },
           {
@@ -294,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "токены/Токены.md",
+                "file": "Тестовый.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Токены"
+              "title": "Структура Тестовый"
             }
           },
           {
@@ -352,6 +352,7 @@
   },
   "active": "6efaac6c825b17a1",
   "lastOpenFiles": [
+    "токены/Токены.md",
     "Тестовый.md",
     "image/1 4.png",
     "Без названия 3.base",
@@ -368,7 +369,6 @@
     "Шаблоны",
     "Ежедневные задачи",
     "Девчонки/Номера и характеристики.md",
-    "токены/Токены.md",
     "токены",
     "image/2023-09-10_21-51-30.png",
     "Задачи по работе/Свой микросервис по трекам/Общая информация по новому сервису.md",
