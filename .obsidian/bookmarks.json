@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1756582384670,
+      "items": [
+        {
+          "type": "url",
+          "ctime": 1756582391504,
+          "url": "https://chatgpt.com/",
+          "title": "ChatGPT"
+        },
+        {
+          "type": "url",
+          "ctime": 1756582926089,
+          "url": "https://chat.deepseek.com/",
+          "title": "DeepSeek"
+        }
+      ],
+      "title": "ИИ"
+    },
+    {
+      "type": "group",
+      "ctime": 1756582941388,
+      "items": [],
+      "title": "ВебСайты"
+    }
+  ]
+}

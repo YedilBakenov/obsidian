@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "image",
   "promptDelete": false,
-  "newFileLocation": "current",
-  "newFileFolderPath": "База знаний",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Без названия 1",
   "alwaysUpdateLinks": true
 }

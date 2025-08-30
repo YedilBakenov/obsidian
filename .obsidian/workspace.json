@@ -83,12 +83,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тестовый слой/йцуйцу.md",
+                "file": "Тестовый.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "йцуйцу"
+              "title": "Тестовый"
+            }
+          },
+          {
+            "id": "7785d4cc5ff5cf04",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-31 00.30.06.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-31 00.30.06.excalidraw"
             }
           },
           {
@@ -103,20 +115,6 @@
               },
               "icon": "lucide-file",
               "title": "Работа"
-            }
-          },
-          {
-            "id": "323b3623a757b2d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-08-20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-20"
             }
           },
           {
@@ -174,9 +172,124 @@
               "icon": "lucide-file",
               "title": "Ежедневник"
             }
+          },
+          {
+            "id": "e03c1564b69b265e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Без названия 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия 1"
+            }
+          },
+          {
+            "id": "e4f9fccc90d03651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-09-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-03"
+            }
+          },
+          {
+            "id": "25a636b3fcf77ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/шаблон telegram.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "шаблон telegram"
+            }
+          },
+          {
+            "id": "05dff0846a35f3ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ChatGPT 4"
+            }
+          },
+          {
+            "id": "b57c375e37b0e45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ChatGPT 3"
+            }
+          },
+          {
+            "id": "84ea43c42654453c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Чат.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Чат"
+            }
+          },
+          {
+            "id": "51a58c853ad27dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ChatGPT 1"
+            }
+          },
+          {
+            "id": "d399d1456e8e5bfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ChatGPT"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -188,6 +301,24 @@
       {
         "id": "3a6f987528ba88bc",
         "type": "tabs",
+        "dimension": 21.231422505307858,
+        "children": [
+          {
+            "id": "c427b64b9610923f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      },
+      {
+        "id": "53d93f48c4cd42f8",
+        "type": "tabs",
+        "dimension": 78.76857749469215,
         "children": [
           {
             "id": "9a58c7d303fcc903",
@@ -218,22 +349,12 @@
               "icon": "lucide-search",
               "title": "Поиск"
             }
-          },
-          {
-            "id": "c427b64b9610923f",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Закладки"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 263.5
   },
   "right": {
     "id": "8af42f107331b977",
@@ -244,39 +365,64 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d5ef580211082de",
+            "id": "85ffb9ef949f6404",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "48a00c18e921b1fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "c14a51e9b7e57c6e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "ChatGPT 4.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "excalidraw",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для ChatGPT 4"
             }
           },
           {
-            "id": "9e37826e79727536",
+            "id": "11676764e81b2054",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тестовый слой/йцуйцу.md",
+                "file": "ChatGPT 4.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из йцуйцу"
+              "title": "Исходящие ссылки из ChatGPT 4"
             }
           },
           {
-            "id": "c0ee3b868bd6fe40",
+            "id": "0508a8b1a810e1ac",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -291,22 +437,7 @@
             }
           },
           {
-            "id": "6a5c8debec1d1541",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Тестовый слой/йцуйцу.md",
-                "followCursor": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Структура йцуйцу"
-            }
-          },
-          {
-            "id": "1c21b4c2a3876be3",
+            "id": "276205dc98b7454d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -318,33 +449,12 @@
               "icon": "lucide-archive",
               "title": "Все свойства"
             }
-          },
-          {
-            "id": "85ffb9ef949f6404",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "dc98404df8b7f21b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -362,48 +472,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6efaac6c825b17a1",
+  "active": "25a636b3fcf77ea2",
   "lastOpenFiles": [
-    "Еда/как принимать витамины и таблетки.md",
-    "Тестовый слой/йцуйцу.md",
-    "Тестовый слой",
-    "123",
-    "Еда/Протеины(изоляты, гидрозаляты).md",
-    "Без названия 3.base",
-    "Тестовый.md",
-    "Без названия 1.md",
-    "токены/Токены.md",
-    "image/1 4.png",
-    "Без названия 2.base",
-    "Без названия 2.canvas",
+    "ChatGPT 6.md",
+    "obsidian/telegram/2025-08-31.md_",
+    "obsidian/telegram",
+    "obsidian",
+    "image/1 13.png",
+    "Без названия 1.base",
+    "ChatGPT 5.md",
+    "ChatGPT 3.md",
+    "ChatGPT 1.md",
+    "Spring/@Autowired Spring.md",
+    "notes/Чат.md",
+    "telegram/2025-08-31.md_",
+    "telegram",
+    "Templates/шаблон telegram.md",
+    "obsidian/telegram/2025-08-31.md",
+    "Templates/шаблон daily.md",
+    "Без названия",
+    "Telegram/asd - 20250831011651206.md",
+    "Telegram/2025-08-31.md_",
+    "Daily/2025-09-03.md",
+    "ChatGPT.md",
+    "Telegram",
+    "ChatGPT 4.md",
+    "ChatGPT 2.md",
+    "notes",
+    "Daily/2025-09-02.md",
+    "Daily/2025-09-01.md",
+    "Daily/2025-08-31.md",
     "Без названия 1.canvas",
-    "Без названия.md",
-    "Без названия.base",
-    "Пароли/тестовый2.md",
-    "Пароли/Пароли.md",
-    "Шаблоны/Ежедневник.md",
-    "Девчонки/Проститутки.md",
-    "Шаблоны",
-    "Ежедневные задачи",
-    "Девчонки/Номера и характеристики.md",
-    "токены",
-    "image/2023-09-10_21-51-30.png",
-    "Задачи по работе/Свой микросервис по трекам/Общая информация по новому сервису.md",
+    "Daily.md",
     "2025-08-20.md",
-    "Работа.md",
-    "Календарь/Четверг 28.08.25.md",
-    "Календарь/Пятница 22.08.25.md",
-    "Календарь/Понедельник 28.07.25.md",
-    "Календарь/Без названия.md",
-    "Календарь/Пятница 25.07.25.md",
-    "Work/Git/Работа с задачами в Jira и Git.md",
-    "Безымянная Kanban-доска.md",
-    "Безымянная Kanban-доска 1.md",
-    "2025-08-22.md",
-    "Excalidraw/Без названия 1.base",
-    "Excalidraw/Безымянная Kanban-доска 1.md",
-    "Excalidraw/Безымянная Kanban-доска.md",
-    "Excalidraw/Без названия.base",
+    "Templates/Шаблон Daily.md",
+    "Шаблоны/Ежедневник.md",
+    "Тестовый.md",
+    "Excalidraw/Drawing 2025-08-31 00.30.06.excalidraw.md",
+    "Тестовый слой/йцуйцу.md",
+    "Еда/как принимать витамины и таблетки.md",
+    "image/1 4.png",
+    "Без названия 2.canvas",
+    "image/2023-09-10_21-51-30.png",
     "Без названия.canvas",
     "image/Снимок экрана 2025-05-22 в 10.52.08.png",
     "Work/Снимок экрана 2024-08-28 в 12.48.23.png",
@@ -412,7 +522,6 @@
     "image/Снимок экрана 2025-03-20 в 11.48.41.png",
     "image/Снимок экрана 2025-03-20 в 11.45.27.png",
     "image/Снимок экрана 2025-01-28 в 16.55.35.png",
-    "image/7.jpeg",
     "Untitled.canvas"
   ]
 }

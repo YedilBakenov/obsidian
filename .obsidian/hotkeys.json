@@ -14,5 +14,14 @@
       ],
       "key": "S"
     }
-  ]
+  ],
+  "webviewer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close": []
 }
