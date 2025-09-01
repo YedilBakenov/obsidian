@@ -9,7 +9,7 @@
   "mainDeviceId": "",
   "pluginVersion": "4.0.0",
   "telegramSessionType": "bot",
-  "telegramSessionId": 20250831011603956,
+  "telegramSessionId": 20250831015241216,
   "betaVersion": "",
   "connectionStatusIndicatorType": "CONSTANT",
   "cacheCleanupAtStartup": false,
@@ -23,9 +23,9 @@
           "value": ""
         }
       ],
-      "templateFilePath": "Templates/шаблон telegram.md",
-      "notePathTemplate": "telegram/{{messageTime:YYYY-MM-DD}}.md\n",
-      "filePathTemplate": "telegram/{{file:type}}s/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
+      "templateFilePath": "",
+      "notePathTemplate": "Telegram/{{content:30}} - {{messageTime:YYYYMMDDHHmmssSSS}}.md",
+      "filePathTemplate": "Telegram/{{file:type}}s/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
       "reversedOrder": true,
       "heading": ""
     }
@@ -34,7 +34,7 @@
   "parallelMessageProcessing": false,
   "processOldMessages": false,
   "processOldMessagesSettings": {
-    "lastProcessingDate": 1756586052,
+    "lastProcessingDate": 1756587169,
     "daysLimit": 14,
     "dialogsLimit": 100,
     "messagesLimit": 1000,

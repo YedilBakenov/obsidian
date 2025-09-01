@@ -1,7 +1,7 @@
 ---
 tags:
   - "#daily"
-telegram: '[[obsidian/telegram/<%tp.date.now("YYYY-MM-DD")%>|<%tp.date.now("YYYY-MM-DD")%>]]'
+telegram: "[[obsidian/telegram/<%tp.file.title%>|<%tp.file.title%>]]"
 ---
 > [!success] ✅ Список задач на сегодня
 > ```tasks

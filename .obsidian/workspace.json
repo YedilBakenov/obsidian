@@ -191,31 +191,31 @@
             }
           },
           {
-            "id": "e4f9fccc90d03651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-09-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-03"
-            }
-          },
-          {
             "id": "25a636b3fcf77ea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/шаблон telegram.md",
+                "file": "Templates/шаблон daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "шаблон telegram"
+              "title": "шаблон daily"
+            }
+          },
+          {
+            "id": "1f6f7e2334b9a64c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Пароли/Пароли.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пароли"
             }
           },
           {
@@ -230,20 +230,6 @@
               },
               "icon": "lucide-file",
               "title": "ChatGPT 4"
-            }
-          },
-          {
-            "id": "b57c375e37b0e45c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChatGPT 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ChatGPT 3"
             }
           },
           {
@@ -278,18 +264,27 @@
             "id": "d399d1456e8e5bfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChatGPT.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ChatGPT"
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "81ff38fccfa6d5a1",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Без названия 3.base",
+                "viewName": "Таблица"
+              },
+              "icon": "lucide-table",
+              "title": "Без названия 3"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -301,7 +296,7 @@
       {
         "id": "3a6f987528ba88bc",
         "type": "tabs",
-        "dimension": 21.231422505307858,
+        "dimension": 25.57915057915058,
         "children": [
           {
             "id": "c427b64b9610923f",
@@ -318,7 +313,7 @@
       {
         "id": "53d93f48c4cd42f8",
         "type": "tabs",
-        "dimension": 78.76857749469215,
+        "dimension": 74.42084942084942,
         "children": [
           {
             "id": "9a58c7d303fcc903",
@@ -472,56 +467,57 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25a636b3fcf77ea2",
+  "active": "81ff38fccfa6d5a1",
   "lastOpenFiles": [
-    "ChatGPT 6.md",
+    "Тестовый.md",
+    "Работа.md",
+    "Без названия 3.base",
+    "Безымянная Kanban-доска 1.md",
+    "Безымянная Kanban-доска.md",
+    "Без названия 2.base",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Без названия 1.md",
+    "Без названия 1.base",
+    "Без названия.md",
+    "Без названия.base",
+    "notes/Чат.md",
+    "Без названия.canvas",
+    "без использования предположений о взаимной обратности,.md",
+    "2025-08-22.md",
+    "ML/Процесс обучения.md",
+    "Excalidraw/Безымянная Kanban-доска.md",
+    "Excalidraw/Без названия 1.base",
+    "Excalidraw/Без названия.base",
+    "image/1 9.png",
+    "Excalidraw/Drawing 2025-08-22 12.54.05.excalidraw.md",
+    "Excalidraw/Безымянная Kanban-доска 1.md",
+    "Daily/2025-09-03.md",
+    "Daily/2025-08-31.md",
+    "Шаблоны/Ежедневник.md",
+    "Так общее/Духи/Список.md",
+    "Резюме/Как было.md",
+    "Работа с обсидиан/Горячие клавиши.md",
+    "Программирование определния/SSH (Secure Shell).md",
+    "Программирование определния/Kafka.md",
+    "Программирование определния/CASSANDRA.md",
+    "Программирование определния/Темы, которые нужно подготовить к собеседованиям.md",
+    "Математика/2 Модуль/Формулы сокращенного умножения/Формулы сокращенного умножения.md",
+    "Общие термины и определения в программировании/Идемпотентность.md",
+    "Мак/Сменить разные jdk на компьютере.md",
+    "image/1 4.png",
+    "Telegram",
+    "Без названия 17",
     "obsidian/telegram/2025-08-31.md_",
     "obsidian/telegram",
-    "obsidian",
     "image/1 13.png",
-    "Без названия 1.base",
-    "ChatGPT 5.md",
-    "ChatGPT 3.md",
-    "ChatGPT 1.md",
-    "Spring/@Autowired Spring.md",
-    "notes/Чат.md",
-    "telegram/2025-08-31.md_",
-    "telegram",
-    "Templates/шаблон telegram.md",
-    "obsidian/telegram/2025-08-31.md",
-    "Templates/шаблон daily.md",
-    "Без названия",
-    "Telegram/asd - 20250831011651206.md",
-    "Telegram/2025-08-31.md_",
-    "Daily/2025-09-03.md",
-    "ChatGPT.md",
-    "Telegram",
-    "ChatGPT 4.md",
-    "ChatGPT 2.md",
-    "notes",
-    "Daily/2025-09-02.md",
-    "Daily/2025-09-01.md",
-    "Daily/2025-08-31.md",
-    "Без названия 1.canvas",
-    "Daily.md",
-    "2025-08-20.md",
-    "Templates/Шаблон Daily.md",
-    "Шаблоны/Ежедневник.md",
-    "Тестовый.md",
-    "Excalidraw/Drawing 2025-08-31 00.30.06.excalidraw.md",
-    "Тестовый слой/йцуйцу.md",
-    "Еда/как принимать витамины и таблетки.md",
-    "image/1 4.png",
-    "Без названия 2.canvas",
     "image/2023-09-10_21-51-30.png",
-    "Без названия.canvas",
     "image/Снимок экрана 2025-05-22 в 10.52.08.png",
     "Work/Снимок экрана 2024-08-28 в 12.48.23.png",
     "Работа/Снимок экрана 2024-08-28 в 12.48.23.png",
     "image/Снимок экрана 2025-03-20 в 11.48.44.png",
     "image/Снимок экрана 2025-03-20 в 11.48.41.png",
     "image/Снимок экрана 2025-03-20 в 11.45.27.png",
-    "image/Снимок экрана 2025-01-28 в 16.55.35.png",
     "Untitled.canvas"
   ]
 }
